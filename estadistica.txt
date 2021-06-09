@@ -1,0 +1,20 @@
+1 piso
+El porcentaje total de carros parqueados fue de->  0.0%
+
+2 piso
+El porcentaje total de carros parqueados fue de->  0.0%
+
+3 piso
+El porcentaje total de carros parqueados fue de->  0.0%
+
+4 piso
+El porcentaje total de carros parqueados fue de->  0.0%
+
+5 piso
+El porcentaje total de carros parqueados fue de->  1.0%
+
+6 piso
+El porcentaje total de carros parqueados fue de->  0.0%
+
+El porcentaje total de carros parqueados en el parqueadero fue de de->  0.18%
+

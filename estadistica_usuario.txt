@@ -1,0 +1,7 @@
+la cantidad de Estudiantes parqueados es de 0
+
+la cantidad de Personal Administrativo parqueados es de 1
+
+la cantidad de Profesor parqueados es de 0
+
+la cantidad de Visitante parqueados es de 0
